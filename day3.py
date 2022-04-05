@@ -1,6 +1,6 @@
-#rock paper scissors game 
+#guess the numbergame 
 #100days of code
-#Day3  : in this day i code the rock paper scissors with  using functions
+
 import random
 
 def guess(x):
